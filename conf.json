@@ -1,0 +1,13 @@
+{
+  "routes": [{
+      "title": "Accueil",
+      "path": "/",
+      "content": "index"
+    },
+    {
+      "title": "Connexion",
+      "path": "/login",
+      "content": "login"
+    }
+  ]
+}
